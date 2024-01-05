@@ -15,7 +15,9 @@ sidebar:
     email: wdelaespriella@hotmail.com
     phone: +57 (315) 401-4422
     timezone: Bogota/Colombia Timezone
-    website: blog.williamdev.com #do not add http://
+    website:
+      name: React Personal Projects
+      link: react-preactices.netlify.app
     linkedin: williamdelaespriella
     github: WilliamDeLaEspriella
     bitbucket:
