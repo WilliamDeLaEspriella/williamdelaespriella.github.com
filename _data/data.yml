@@ -73,50 +73,86 @@ experiences:
         time: October de 2021 - Present
         company: Kikoya, Mexico
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Kikoya is a digital platform that seeks to turn any financial institution into a Fintech, 
+          through a full-cycle credit origination software. 
+          The SaaS platform offers its users monthly rental plans in which they only pay for what they use.
+
+          My responsibilities:
+            - Define and estimate new functionalities
+            - Maintenance of current services
+            - Development of new functionalities
+          
+          Tools:
+            - Ruby on Rails
+            - Rspec
+            - Sidekiq
+            - PostgreSQl
+            - Heroku
+            - GitHub Actions (CI)
+            - Jira
       - role: Nodejs Developer
         time: March de 2021 - October de 2021
         company: Condor Labs, Colombia
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Formerly ISF de Colombia, Condor Labs is a Colombian company with headquarters in Cartagena 
+          and a branch office in Medellín founded on May 11, 2001, 
+          with the purpose of offering solutions for Information Technology projects.
+
+          My responsibilities:
+            - Define and estimate new functionalities
+            - Maintenance of current Microservices
+            - Development of new Microservices
+            - Temporarily lead the development team
+
+          Tools:
+            - Nodejs
+            - ReactJs
+            - JavaScript
+            - MongoDB
+            - .net
+            - Jira
       - role: Back End Ruby on Rails Developer
         time: November de 2020 - March de 2021
         company: Picap
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Picap is an application that makes life easier for thousands of Colombians who travel by motorcycle. 
+          This app arrived in Brazil at the beginning of 2019. It is a motorcycle taxi platform 
+          that was activated in 8 major cities in Colombia and has had a great reach throughout the motorcyclists' guild.
+
+          My responsibilities:
+            - Define and estimate new functionalities
+            - Maintenance of current services
+            - Development of new functionalities
+
+          Tools:
+            - Ruby on Rails
+            - Rspec
+            - Sidekiq
+            - MongoId ORM
+            - MongoDB
+            - Bitbucket
+            - Jira
       - role: Back End Ruby on Rails Developer
         time: January de 2018 - November de 2020
         company: Onward Development
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Onward Development is a company dedicated to custom development in the most innovative technologies, 
+          web development, mobile development and other custom services.
+
+          My responsibilities:
+            - Define and estimate new functionalities
+            - Maintenance of current services
+            - Development of new functionalities
+            - Deployment services to AWS and Heroku
+
+          Tools:
+            - Ruby on Rails
+            - ReactJS
+            - Nodejs
+            - Resque
+            - PosgreSQL
+            - AWS
+            - Heroku
 
 # certifications:
 #       title: Certifications
@@ -232,10 +268,10 @@ skills:
 
     toolset:
       - name: Ruby
-        level: 98%
+        level: 90%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 90%
 
       - name: Javascript & jQuery
         level: 80%
