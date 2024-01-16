@@ -16,8 +16,8 @@ sidebar:
     phone: +57 (315) 401-4422
     timezone: Bogota/Colombia Timezone
     website:
-      name: React Personal Projects
-      link: react-preactices.netlify.app
+      name: All Projects
+      link: /projects
     linkedin: williamdelaespriella
     github: WilliamDeLaEspriella
     bitbucket:
@@ -57,12 +57,12 @@ education:
 career-profile:
     title: Career Profile
     summary: |
-      He considers himself a proactive person, able to face challenges and work in a team, 
+      I consider myself a proactive person, able to face challenges and work in a team, 
       willing to acquire new knowledge, dedicated and responsible.
 
-      He is passionate about application development, 
+      I am passionate about application development., 
       making use of programming languages such as Ruby and Javascript. 
-      He has skills in analysis, development and execution of deployments using tools such as Lambda, 
+      I have skills in analysis, development and execution of deployments using tools such as Lambda, 
       Elastic Beanstalk, Ec2 and Heroku. 
 
 
@@ -195,32 +195,21 @@ experiences:
 #             Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #             Praesent venenatis erat non augue suscipit consectetur.
 
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+projects:
+    title: Projects
+    assignments:
+      - title: Heasel
+        link: https://react-preactices.netlify.app/
+        tagline: | 
+          A responsive website template designed to help 
+          the user search for their favorite movies and 
+          see which streaming platform they are available on.
+          
+          Tools:
+            - Javascript
+            - ReactJs
+            - tailwindcss
+            - Netlify
 
 # oss:
 #     title: OSS Contributions
