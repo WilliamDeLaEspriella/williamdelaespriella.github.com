@@ -2,157 +2,177 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: William De la Espriella Avila
-    tagline: Full Stack Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: William De la Espriella Avila
+  tagline: Full Stack Developer
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: wdelaespriella@hotmail.com
-    phone: +57 (315) 401-4422
-    timezone: Bogota/Colombia Timezone
-    website:
-      name: All Projects
-      link: /projects
-    linkedin: williamdelaespriella
-    github: WilliamDeLaEspriella
-    bitbucket:
-    twitter: "@WilliamDelaE"
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    hackerrank: wdelaespriellaa
-    pdf: https://drive.google.com/file/d/1KGniLqR5CgRNyGXIo_9k--51H5KW6OYA/view
+  # Sidebar links
+  email: wdelaespriella@hotmail.com
+  phone: +57 (315) 401-4422
+  timezone: Bogota/Colombia Timezone
+  website:
+    name: All Projects
+    link: /projects
+  linkedin: williamdelaespriella
+  github: WilliamDeLaEspriella
+  bitbucket:
+  twitter: "@WilliamDelaE"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  hackerrank: wdelaespriellaa
+  pdf: https://drive.google.com/file/d/1KGniLqR5CgRNyGXIo_9k--51H5KW6OYA/view
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Student
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: Student
 
-        - idiom: Spanish
-          level: Native
+      - idiom: Spanish
+        level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Movies/series
-          link:
+  interests:
+    title: Interests
+    info:
+      - item: Movies/series
+        link:
 
-        - item: Books
-          link:
+      - item: Books
+        link:
 
-        - item: Cooking
-          link:
+      - item: Cooking
+        link:
 
 education:
-    title: Education
-    info:
-      - degree: Systems Engineer
-        university: Universidad de Cartagena
-        time: 2013 - 2022
+  title: Education
+  info:
+    - degree: Systems Engineer
+      university: Universidad de Cartagena
+      time: 2013 - 2022
 
 career-profile:
-    title: Career Profile
-    summary: |
-      I consider myself a proactive person, able to face challenges and work in a team, 
-      willing to acquire new knowledge, dedicated and responsible.
+  title: Career Profile
+  summary: |
+    I consider myself a proactive person, able to face challenges and work in a team,
+    willing to acquire new knowledge, dedicated and responsible.
 
-      I am passionate about application development., 
-      making use of programming languages such as Ruby and Javascript. 
-      I have skills in analysis, development and execution of deployments using tools such as Lambda, 
-      Elastic Beanstalk, Ec2 and Heroku. 
-
+    I am passionate about application development.,
+    making use of programming languages such as Ruby and Javascript.
+    I have skills in analysis, development and execution of deployments using tools such as Lambda,
+    Elastic Beanstalk, Ec2 and Heroku.
 
 experiences:
-    title: Experiences
-    info:
-      - role: Senior Ruby on Rails Developer
-        time: October de 2021 - Present
-        company: Kikoya, Mexico
-        details: |
-          Kikoya is a digital platform that seeks to turn any financial institution into a Fintech, 
-          through a full-cycle credit origination software. 
-          The SaaS platform offers its users monthly rental plans in which they only pay for what they use.
+  title: Experiences
+  info:
+    - role: Fullstack Developer
+      time: January 2024 - April 2025
+      company: Koonol Mexico, Mexico
+      details: |
+        Koonol México is a company that offers software, technology, and innovation services,
+        specializing in developing solutions that optimize processes, enhance productivity,
+        and transform digital experiences..
 
-          My responsibilities:
-            - Define and estimate new functionalities
-            - Maintenance of current services
-            - Development of new functionalities
-          
-          Tools:
-            - Ruby on Rails
-            - Rspec
-            - Sidekiq
-            - PostgreSQl
-            - Heroku
-            - GitHub Actions (CI)
-            - Jira
-      - role: Nodejs Developer
-        time: March de 2021 - October de 2021
-        company: Condor Labs, Colombia
-        details: |
-          Formerly ISF de Colombia, Condor Labs is a Colombian company with headquarters in Cartagena 
-          and a branch office in Medellín founded on May 11, 2001, 
-          with the purpose of offering solutions for Information Technology projects.
+        My responsibilities:
+          - Define and estimate new functionalities
+          - Maintenance of current services
+          - Development of new functionalities
+          - Check performance issue
 
-          My responsibilities:
-            - Define and estimate new functionalities
-            - Maintenance of current Microservices
-            - Development of new Microservices
-            - Temporarily lead the development team
+        Tools:
+          - Ruby on Rails
+          - Rspec
+          - Emberjs
+          - PostgreSQl
+          - Kotlin Multi Platform
+          - GitHub Actions (CI)
+    - role: Senior Ruby on Rails Developer
+      time: October 2021 - January 2024
+      company: Kikoya, Mexico
+      details: |
+        Kikoya is a digital platform that seeks to turn any financial institution into a Fintech,
+        through a full-cycle credit origination software.
+        The SaaS platform offers its users monthly rental plans in which they only pay for what they use.
 
-          Tools:
-            - Nodejs
-            - ReactJs
-            - JavaScript
-            - MongoDB
-            - .net
-            - Jira
-      - role: Back End Ruby on Rails Developer
-        time: November de 2020 - March de 2021
-        company: Picap
-        details: |
-          Picap is an application that makes life easier for thousands of Colombians who travel by motorcycle. 
-          This app arrived in Brazil at the beginning of 2019. It is a motorcycle taxi platform 
-          that was activated in 8 major cities in Colombia and has had a great reach throughout the motorcyclists' guild.
+        My responsibilities:
+          - Define and estimate new functionalities
+          - Maintenance of current services
+          - Development of new functionalities
 
-          My responsibilities:
-            - Define and estimate new functionalities
-            - Maintenance of current services
-            - Development of new functionalities
+        Tools:
+          - Ruby on Rails
+          - Rspec
+          - Sidekiq
+          - PostgreSQl
+          - Heroku
+          - GitHub Actions (CI)
+          - Jira
+    - role: Nodejs Developer
+      time: March 2021 - October 2021
+      company: Condor Labs, Colombia
+      details: |
+        Formerly ISF de Colombia, Condor Labs is a Colombian company with headquarters in Cartagena
+        and a branch office in Medellín founded on May 11, 2001,
+        with the purpose of offering solutions for Information Technology projects.
 
-          Tools:
-            - Ruby on Rails
-            - Rspec
-            - Sidekiq
-            - MongoId ORM
-            - MongoDB
-            - Bitbucket
-            - Jira
-      - role: Back End Ruby on Rails Developer
-        time: January de 2018 - November de 2020
-        company: Onward Development
-        details: |
-          Onward Development is a company dedicated to custom development in the most innovative technologies, 
-          web development, mobile development and other custom services.
+        My responsibilities:
+          - Define and estimate new functionalities
+          - Maintenance of current Microservices
+          - Development of new Microservices
+          - Temporarily lead the development team
 
-          My responsibilities:
-            - Define and estimate new functionalities
-            - Maintenance of current services
-            - Development of new functionalities
-            - Deployment services to AWS and Heroku
+        Tools:
+          - Nodejs
+          - ReactJs
+          - JavaScript
+          - MongoDB
+          - .net
+          - Jira
+    - role: Back End Ruby on Rails Developer
+      time: November 2020 - March 2021
+      company: Picap
+      details: |
+        Picap is an application that makes life easier for thousands of Colombians who travel by motorcycle.
+        This app arrived in Brazil at the beginning of 2019. It is a motorcycle taxi platform
+        that was activated in 8 major cities in Colombia and has had a great reach throughout the motorcyclists' guild.
 
-          Tools:
-            - Ruby on Rails
-            - ReactJS
-            - Nodejs
-            - Resque
-            - PosgreSQL
-            - AWS
-            - Heroku
+        My responsibilities:
+          - Define and estimate new functionalities
+          - Maintenance of current services
+          - Development of new functionalities
+
+        Tools:
+          - Ruby on Rails
+          - Rspec
+          - Sidekiq
+          - MongoId ORM
+          - MongoDB
+          - Bitbucket
+          - Jira
+    - role: Fullstack Developer
+      time: January 2018 - November 2020
+      company: Onward Development
+      details: |
+        Onward Development is a company dedicated to custom development in the most innovative technologies,
+        web development, mobile development and other custom services.
+
+        My responsibilities:
+          - Define and estimate new functionalities
+          - Maintenance of current services
+          - Development of new functionalities
+          - Deployment services to AWS and Heroku
+
+        Tools:
+          - Ruby on Rails
+          - ReactJS
+          - Nodejs
+          - Resque
+          - PosgreSQL
+          - AWS
+          - Heroku
 
 # certifications:
 #       title: Certifications
@@ -196,20 +216,20 @@ experiences:
 #             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
-    assignments:
-      - title: Heasel
-        link: https://react-preactices.netlify.app/
-        tagline: | 
-          A responsive website template designed to help 
-          the user search for their favorite movies and 
-          see which streaming platform they are available on.
-          
-          Tools:
-            - Javascript
-            - ReactJs
-            - tailwindcss
-            - Netlify
+  title: Projects
+  assignments:
+    - title: Heasel
+      link: https://react-preactices.netlify.app/
+      tagline: |
+        A responsive website template designed to help
+        the user search for their favorite movies and
+        see which streaming platform they are available on.
+
+        Tools:
+          - Javascript
+          - ReactJs
+          - tailwindcss
+          - Netlify
 
 # oss:
 #     title: OSS Contributions
@@ -253,26 +273,26 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Ruby
-        level: 90%
+  toolset:
+    - name: Ruby
+      level: 90%
 
-      - name: Ruby on Rails
-        level: 90%
+    - name: Ruby on Rails
+      level: 90%
 
-      - name: Javascript & jQuery
-        level: 80%
+    - name: Javascript & jQuery
+      level: 80%
 
-      - name: React
-        level: 80%
+    - name: React
+      level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+    - name: HTML5 & CSS
+      level: 95%
 
-      - name: AWS
-        level: 50%
+    - name: AWS
+      level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
